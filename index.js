@@ -29,8 +29,4 @@ function iLoveTheBeatles(num){
     return i;}
   var love = []
   do {love.push("I love The Beatles!");
-} while (iLoveTheBeatles() > 15);{
-
-
-return(love)
-}
+} while (iLoveTheBeatles() > 15);
