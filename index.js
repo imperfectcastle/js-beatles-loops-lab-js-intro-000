@@ -30,4 +30,4 @@ var i = 0
     return i;}
   var love = []
   do {love.push("I love The Beatles!");
-} while (iLoveTheBeatles() > 15);
+} while (iLoveTheBeatles() > i);
