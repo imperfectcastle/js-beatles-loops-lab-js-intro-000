@@ -28,6 +28,6 @@ var i = 0
   var love = []
   do {love.push("I love The Beatles!");
   i++;
-} while (iLoveTheBeatles() > 15)
+} while (iLoveTheBeatles() < 15)
 return(love)
 }
