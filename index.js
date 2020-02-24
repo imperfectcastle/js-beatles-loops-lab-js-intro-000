@@ -21,3 +21,14 @@ function johnLennonFacts(array) {
 
 
 ///code above is correct
+
+
+
+function iLoveTheBeatles(num){
+  var i = 0
+  var love = []
+  do {
+  love.push("I love The Beatles!");
+} while (num < 15);
+return(love)
+}
