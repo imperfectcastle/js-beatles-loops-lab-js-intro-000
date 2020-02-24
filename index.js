@@ -9,9 +9,6 @@ function theBeatlesPlay(musicians, instruments) {
   return(answer)
 }
 
-///code above is correct
-
-
 
 function johnLennonFacts(array) {
   var i = 0 ;
@@ -21,3 +18,6 @@ function johnLennonFacts(array) {
   i++; }
   return(funfacts)
 }
+
+
+///code above is correct
